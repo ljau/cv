@@ -3,9 +3,9 @@ import BodyContainer from '../frontend/components/bodyContainer'
 
 const Main = () => {
     return (
-        <div>
+        <>
             <BodyContainer/>
-        </div>
+        </>
     )
 }
 
